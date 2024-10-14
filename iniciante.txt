@@ -1,0 +1,67 @@
+1. **Listas**: Crie uma lista com cinco números inteiros e imprima cada número na lista.
+
+2. **Listas**: Adicione um novo número à lista anterior e imprima a lista atualizada.
+
+3. **Listas**: Remova um número específico da lista e imprima a lista resultante.
+
+4. **Listas**: Inverta a lista e imprima o resultado.
+
+5. **Listas**: Crie uma lista de strings e imprima o comprimento de cada string.
+
+6. **Tuplas**: Crie uma tupla com três elementos e imprima cada elemento.
+
+7. **Tuplas**: Tente modificar um elemento da tupla e explique o que acontece.
+
+8. **Dicionários**: Crie um dicionário com três pares de chave-valor e imprima o dicionário.
+
+9. **Dicionários**: Adicione um novo par chave-valor ao dicionário e imprima o dicionário atualizado.
+
+10. **Dicionários**: Remova uma chave específica do dicionário e imprima o dicionário resultante.
+
+11. **Conjuntos**: Crie um conjunto com cinco números e imprima o conjunto.
+
+12. **Conjuntos**: Adicione um novo número ao conjunto e imprima o conjunto atualizado.
+
+13. **Conjuntos**: Remova um número do conjunto e imprima o conjunto resultante.
+
+14. **Filas**: Crie uma fila e adicione três elementos. Imprima a fila e remova um elemento. Imprima a fila novamente.
+
+15. **Pilhas**: Crie uma pilha e empilhe três elementos. Imprima a pilha e desempilhe um elemento. Imprima a pilha novamente.
+
+16. **Listas**: Escreva um programa que some todos os elementos de uma lista de números.
+
+17. **Listas**: Crie uma lista de números e encontre o maior e o menor número na lista.
+
+18. **Dicionários**: Escreva um programa que conte a frequência de cada letra em uma string e armazene os resultados em um dicionário.
+
+19. **Tuplas**: Crie uma tupla de coordenadas (x, y) e imprima a distância da origem (0, 0) até esse ponto.
+
+20. **Conjuntos**: Dado dois conjuntos, crie um novo conjunto que contenha apenas os elementos que estão em ambos os conjuntos (interseção).
+
+21. **Listas**: Crie uma lista de números e imprima apenas os números pares.
+
+22. **Dicionários**: Crie um dicionário que armazene o nome de pessoas e suas idades. Imprima apenas os nomes.
+
+23. **Listas**: Escreva um programa que verifique se uma lista contém um número específico.
+
+24. **Dicionários**: Crie um dicionário de contatos e implemente funções para adicionar, remover e buscar contatos.
+
+25. **Filas**: Escreva uma função que simule uma fila de atendimento, onde você pode adicionar e remover clientes.
+
+26. **Pilhas**: Crie uma função que inverta uma string usando uma pilha.
+
+27. **Listas**: Escreva um programa que encontre o segundo maior número em uma lista.
+
+28. **Conjuntos**: Crie uma função que verifique se duas listas têm elementos únicos em comum.
+
+29. **Dicionários**: Implemente uma função que recebe uma lista de nomes e retorna um dicionário com a quantidade de ocorrências de cada nome.
+
+30. **Listas**: Crie uma lista com cinco frutas e imprima cada fruta com seu índice.
+
+31. **Tuplas**: Crie uma função que recebe duas tuplas e retorna uma nova tupla com a soma dos elementos correspondentes.
+
+32. **Conjuntos**: Crie uma função que recebe duas listas e retorna uma lista com os elementos que estão apenas na primeira lista.
+
+33. **Dicionários**: Escreva um programa que armazena notas de alunos em um dicionário e calcula a média de cada aluno.
+
+Sinta-se à vontade para responder ou discutir qualquer um desses exercícios!
