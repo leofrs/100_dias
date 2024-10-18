@@ -9,3 +9,7 @@ console.log(fiveNumbersList);
 //3
 fiveNumbersList.splice(2, 1);
 console.log(fiveNumbersList);
+
+//4
+fiveNumbersList.reverse();
+console.log(fiveNumbersList);
